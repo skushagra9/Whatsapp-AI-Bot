@@ -34,7 +34,7 @@ If you want to learn more about this project or have any questions, send me an e
 1. Clone the repository
 
    ```sh
-   git clone (https://github.com/skushagra9/Whatsapp-AI.git)
+   git clone (https://github.com/skushagra9/Whatsapp-AI-Bot.git)
    ```
 
 2. Install dependencies
