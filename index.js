@@ -60,7 +60,7 @@ async function run(message) {
                         to: process.env.MY_PERSONAL_NUM
                     });
                 } else {
-                    console.error("Google Generative AI response is empty or undefined.");
+                    console.error("It gives error for max tokens, you will need to");
                 }
             } else {
                 console.log("Empty message. Ignoring.");
