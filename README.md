@@ -52,7 +52,8 @@ If you want to learn more about this project or have any questions, send me an e
 
 5. Run the server
    ```sh
-    node index.js
+    yarn tsc
+    node dist/index.js
    ```
 6.Install ngork from https://ngrok.com/docs/getting-started/
 
