@@ -17,9 +17,9 @@ If you want to learn more about this project or have any questions, send me an e
 
 ## Built with 🛠️
 
-- [JavaScript]((https://developer.mozilla.org/en-US/docs/Web/JavaScript))
-- [Gemini]((https://ai.google.dev/tutorials))
-- [Twilio]((https://www.twilio.com/))
+- [TypeScript]
+- [Gemini]
+- [Twilio]
 
 
 ## Getting Started 🚀
