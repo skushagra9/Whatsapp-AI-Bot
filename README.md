@@ -19,7 +19,7 @@ If you want to learn more about this project or have any questions, send me an e
 
 - [JavaScript]((https://developer.mozilla.org/en-US/docs/Web/JavaScript))
 - [Gemini]((https://ai.google.dev/tutorials))
-- [Twilioi]((https://www.twilio.com/))
+- [Twilio]((https://www.twilio.com/))
 
 
 ## Getting Started 🚀
