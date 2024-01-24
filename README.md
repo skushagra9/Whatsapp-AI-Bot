@@ -58,5 +58,5 @@ If you want to learn more about this project or have any questions, send me an e
 
 7. Open another Terminal and run
    `ngrok http http://localhost:3000`
-   copy the link for the locally hosted server and paste in the twilio app 
+    copy the link for the locally hosted server and paste in the twilio app 
     Open Your App> Develop > Messaging > Try It Ouy > Send a Whatsapp message > Go to the sandbox settings > paste the link on the demolink space
