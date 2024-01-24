@@ -60,7 +60,7 @@ async function run(message) {
                         to: process.env.MY_PERSONAL_NUM
                     });
                 } else {
-                    console.error("It gives error for max tokens, you will need to");
+                    console.error("This problem is related to Model Limitations and API Rate Limits");
                 }
             } else {
                 console.log("Empty message. Ignoring.");
